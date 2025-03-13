@@ -1,0 +1,3 @@
+rg_name="nombre de grupo de recursos"
+rg_location="mexicocentral"
+sa_name="nombre cuenta de almacenamiento"

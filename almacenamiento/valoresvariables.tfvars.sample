@@ -1,0 +1,3 @@
+rg_name="nombre de grupo de recursos"
+rg_location="ubicacion del recurso"
+sa_name="nombre cuenta de almacenamiento"
