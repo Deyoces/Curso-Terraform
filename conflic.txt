@@ -1,6 +1,0 @@
-linea original
-Segundo cambio desde main2
-
-Segundo cambio desde main
-cambios en dev
-
